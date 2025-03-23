@@ -2,7 +2,7 @@
 
 -----
 
-![效果图](https://github.com/user-attachments/assets/36d47273-086e-4505-83b1-2ddc533a83dc)
+![image](https://github.com/user-attachments/assets/3d6a44fb-6ca3-4f20-8a71-57176c0f2409)
 
 一个基于HTML5 Canvas的轻量级动态粒子背景库，可为网页创建优雅的互动粒子效果。支持鼠标互动、响应式布局和主题适配。
 
