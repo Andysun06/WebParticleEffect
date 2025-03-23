@@ -1,4 +1,4 @@
-# WebParticleEffect Web页面背景粒子特效
+# WebParticleEffect 网页动态粒子背景库
 
 -----
 
