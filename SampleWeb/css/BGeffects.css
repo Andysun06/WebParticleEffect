@@ -1,0 +1,9 @@
+﻿#particleCanvas {
+    position: fixed; /* 改为固定定位 */
+    top: 0;
+    left: 0;
+    z-index: 0; /* 层级设为最低 */
+    pointer-events: none;
+    width: 100vw; /* 视窗宽度 */
+    height: 100vh; /* 视窗高度 */
+}
